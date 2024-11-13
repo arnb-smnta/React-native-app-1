@@ -3,9 +3,8 @@ import { SafeAreaView } from "react-native-safe-area-context";
 
 const MyComponent = () => (
   <SafeAreaView>
-    <Text>For yu page</Text>
-    
-  </SafeAreaView>
+    <Text style={{color:"black",fontSize:15}}>Accounts  info page</Text>
+    </SafeAreaView>
 );
 
 export default MyComponent;
